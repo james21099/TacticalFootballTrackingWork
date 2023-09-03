@@ -4,5 +4,5 @@ The data is found at this link: https://github.com/metrica-sports/sample-data/tr
 
 The visualisation and data processing files which include the word "Metrica" have been minorly adapted from those made public by LaurieOnTracking which are available at this link: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking.
 
-The Metrica files turn the initial tracking and event data into dataframes, add in some visualisation functions, and add velocities to the tracking data.
-The other files are then created by myself and analyse the data in order to create tactical information on the teams.
+The Metrica files turn the initial tracking and event data into dataframes, add some visualisation functions, and add velocities to the tracking data.
+The other files are then created by myself and analyse the data in order to create tactical information on the teams. The files are ordered because some functions and many of the variables are carried over to later files. It may be easier to load in as one longer file in IDEs that don't allow for accessing variables across files easily.
