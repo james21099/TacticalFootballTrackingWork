@@ -1,5 +1,5 @@
 # TacticalFootballTrackingWork
-This repository contains the code to make the models and plots from my Masters Dissertation project, this project used Metric sports data and uses some of their files to read the initial data in for my analysis which produces tactical information on football teams.
+This repository contains the code to make the models and plots from my Masters Dissertation project, this project used Metric sports data and uses some of their files to read the initial data in for my analysis which produces tactical information on football teams. Load in the file called 'data' this will contain 3 games of sample tracking and event data, however only 1 and 2 are in forms that can be read in easily as part of this model, so feel free to delete 'Sample Data Game 1' after downloading 'data'.
 The data is found at this link: https://github.com/metrica-sports/sample-data/tree/master/data.
 
 The visualisation and data processing files which include the word "Metrica" have been minorly adapted from those made public by LaurieOnTracking which are available at this link: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking.
